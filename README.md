@@ -20,7 +20,7 @@ The graph of Checkout Times by Genders shows that the pattern is the same regard
 
 ![Screen Shot 2022-07-10 at 11 23 53 AM (2)](https://user-images.githubusercontent.com/102264298/178159113-4e274651-ce57-4063-a744-2b6b63647e30.png)
 
-The graph of Trip by Weekday per Hour shows that the peak hours of bike riding is 5-6pm on Monday, Tuesday and Thursday. While in the early morning from 7-9am Monday to Friday also have high usage. 
+The graph of Trip by Weekday per Hour shows that the peak hours of bike riding is 5-6pm on Monday, Tuesday and Thursday. While in the early morning from 7-9am Monday to Friday also have high usage. It is also indicated that the purpose of bikesharing users is mainly for workday commute.  
 
 ![Screen Shot 2022-07-10 at 1 07 09 PM (2)](https://user-images.githubusercontent.com/102264298/178159118-67b778d5-358b-42ca-8584-e5ae52ead64c.png)
 
@@ -45,4 +45,11 @@ There is a description of the results for each visualization
 
 ## Summary:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis
+### Conclusion
+
+Bikesharing business is a promising industry and riding bike is a healthier life style and also energy saving. It is recommended to implemented in Des Moines. However, a few addtional visulizations may be performed to fully demonstrated the annlysis.  
+
+### Two additional visualizations are suggested for future analysis
+  1. It is suggested to make a visualization of the age of the bike users.   
+  
+  2. Average trip cost and subscriber cost are recommended to be analyzed. 

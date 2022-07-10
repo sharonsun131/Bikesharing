@@ -6,6 +6,8 @@ The purpose of this analysis is to solidify the proposal with a bike trip analys
 
 ## Results:
 
+The Full NYC CitiBike story can be viewed on [link to dashboard](https://public.tableau.com/app/profile/sharon3357/viz/Challenge_16574787214340/Story1?publish=yes) 
+
 First, we need to change the column Trip Duration from a integer to a datetime datatype to get the time in hours, minutes, and seconds using Pandas function. And then export the DataFrame as a new CSV file without the index column. Here are the revised DataFrame: 
 
 ![Screen Shot 2022-07-10 at 9 55 17 AM (2)](https://user-images.githubusercontent.com/102264298/178159104-37002188-c4d8-48ee-8f98-36ab8d0db566.png)

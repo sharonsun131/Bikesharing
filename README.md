@@ -42,9 +42,6 @@ The graph of August Peak Hours shows that the peak time for bikeshring is betwee
 
 ![Screen Shot 2022-07-10 at 2 25 43 PM (2)](https://user-images.githubusercontent.com/102264298/178159200-6a8b963d-98bc-4418-a337-926e1520ddf8.png)
 
-
-There is a description of the results for each visualization
-
 ## Summary:
 
 ### Conclusion
